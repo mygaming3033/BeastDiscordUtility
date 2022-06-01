@@ -1,0 +1,8 @@
+#Config file
+
+Prefix: "&8[&aBeastBot&8]"
+Delay: 120
+PlayerNotLinked: "%prefix% &eHeey, I saw that your &aminecraft account &eis not linked with your &adiscord account. &eLink your accounts to open many more features! Type &a/discord link &eand follow the instructions!"
+Reward:
+  - "eco give %player% 1000"
+RewardMessage: "%prefix% &eYou earned &a1000 &efor connecting discord account!"

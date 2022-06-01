@@ -1,0 +1,7 @@
+name: BeastDiscordUtility
+version: '${project.version}'
+main: com.mygaming3033.beastdiscordutility.BeastDiscordUtility
+api-version: 1.16
+depend: [ DiscordSRV ]
+authors: [ mygaming3033 ]
+description: System for discord
